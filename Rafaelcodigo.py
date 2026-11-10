@@ -2,8 +2,8 @@
 projeto = "Sistema Financeiro"
 modulo = "Autenticação"
 branch = "feature/login-seguro"
-responsavel = "Rafael Iemma"
-data_execucao = "01/08/2026"
+responsavel = "Lucas Oliveira"
+data_execucao = "10/11/2026"
 
 # exibiçao do texto no terminal 
 print("==============================================")
