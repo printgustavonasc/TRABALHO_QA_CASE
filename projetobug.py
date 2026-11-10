@@ -8,4 +8,8 @@ executados ="5"
 
 print(f"projeto; {projeto}")
 print(f"modulo; {modulo}")
-print (f'responsavel{responsavel}')
+print (f'responsavel; {responsavel}')
+print (f"data; {data}")
+print (f"aprovados; {aprovados}")
+print (f"reprovados; {reprovados}")
+print (f"executados; {executados}")
