@@ -2,7 +2,7 @@
 projeto = "Sistema Financeiro"
 modulo = "Autenticação"
 branch = "feature/login-seguro"
-responsavel = "Davi Souza"
+responsavel = "Ana Souza"
 data_execucao = "09/11/2026"
 
 # exibiçao do texto no terminal 
@@ -19,4 +19,3 @@ print("")
 print("==============================================")
 print("           INICIALIZAÇÃO CONCLUÍDA            ")
 print("==============================================")
-
