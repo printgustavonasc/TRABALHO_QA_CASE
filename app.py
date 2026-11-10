@@ -10,3 +10,4 @@ idade = '50'
 print(f"eu sou a {nome} e tenho {idade}")
 print (f"subtracao:" , {4+1})
 print("projetonobug:")
+ihyihyiyg
