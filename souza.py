@@ -1,21 +1,11 @@
 # criação das variaveis 
-projeto = "Sistema Financeiro"
-modulo = "Autenticação"
-branch = "feature/login-seguro"
-responsavel = "Ana Souza"
-data_execucao = "09/11/2026"
+projeto = "shopvibe"
+modulo = "carrinho de compra e cupom de desconto"
+responsavel = " lucas oliveira"
+data_execucao = "10/11/2026"
 
-# exibiçao do texto no terminal 
-print("==============================================")
-print("       RELATÓRIO DE EXECUÇÃO DE TESTES        ")
-print("==============================================")
-print("")
+
 print(f"Projeto: {projeto}")
 print(f"Módulo: {modulo}")
-print(f"Branch: {branch}")
 print(f"Responsável: {responsavel}")
 print(f"Data da execução: {data_execucao}")
-print("")
-print("==============================================")
-print("           INICIALIZAÇÃO CONCLUÍDA            ")
-print("==============================================")
