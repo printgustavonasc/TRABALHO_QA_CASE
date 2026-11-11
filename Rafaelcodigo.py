@@ -26,7 +26,7 @@ print(50*"=")
 
 projeto='shop shopvibe'
 modulo = "carrinho de compras e cupom de desconto"
-responsavel="david marcela gusrtavo e rafael"
+responsavel="davi marcela gustavo e rafael"
 data = "10/11/2026"
 aprovados ="35" 
 reprovados ="10"
